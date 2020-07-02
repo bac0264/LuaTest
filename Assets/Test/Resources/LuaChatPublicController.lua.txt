@@ -1,0 +1,7 @@
+ChatPublic = {
+    playerName = "Bac",
+    avatarId = 1,
+    playerLevel = 1,
+    message = "Hello",
+    createdTime = 111,
+}
